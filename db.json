@@ -1,0 +1,98 @@
+{
+    "Homepage": {
+        "Footer": {
+            "enabled": true,
+            "props": {
+                "text": "Hello Footer"
+            }
+        },
+        "Navbar": {
+            "enabled": true,
+            "props": {
+                "text": "Hello Navbar!"
+            }
+        },
+        "Text": {
+            "enabled": true,
+            "props": {
+                "text": "I am p tag"
+            }
+        },
+        "VersionTable": {
+            "enabled": true,
+            "props": {
+                "text": "Hello VT"
+            }
+        },
+        "H1": {
+            "enabled": true,
+            "props": {
+                "text": "I am h1 tag"
+            }
+        }
+    },
+    "Aboutuspage": {
+        "Footer": {
+            "enabled": true,
+            "props": {
+                "text": "Hello Footer"
+            }
+        },
+        "Navbar": {
+            "enabled": true,
+            "props": {
+                "text": "Hello Navbar!"
+            }
+        },
+        "Text": {
+            "enabled": true,
+            "props": {
+                "text": "I am p tag"
+            }
+        },
+        "VersionTable": {
+            "enabled": true,
+            "props": {
+                "text": "Hello VT"
+            }
+        },
+        "H1": {
+            "enabled": true,
+            "props": {
+                "text": "I am h1 tag"
+            }
+        }
+    },
+    "componentData": {
+        "Footer": {
+            "enabled": true,
+            "props": {
+                "text": "Hello Footer"
+            }
+        },
+        "Navbar": {
+            "enabled": true,
+            "props": {
+                "text": "Hello Navbar!"
+            }
+        },
+        "Text": {
+            "enabled": true,
+            "props": {
+                "text": "I am p tag"
+            }
+        },
+        "VersionTable": {
+            "enabled": true,
+            "props": {
+                "text": "Hello VT"
+            }
+        },
+        "H1": {
+            "enabled": true,
+            "props": {
+                "text": "I am h1 tag"
+            }
+        }
+    }
+}
